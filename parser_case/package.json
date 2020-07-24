@@ -1,0 +1,21 @@
+{
+  "name": "parser-case",
+  "version": "1.0.8",
+  "description": "a parser case; parser(content)",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.sankuai.com/~zoushengda/generate-parser.git"
+  },
+  "keywords": [
+    "parser"
+  ],
+  "author": "",
+  "license": "ISC"
+}

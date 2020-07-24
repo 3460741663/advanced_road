@@ -1,0 +1,26 @@
+.wrap{
+  width:100%;
+  padding: 0 15px;
+  overflow: hidden;
+  font-size: 12px;
+  background-color: rgb(254, 235, 207);
+}
+
+.hide{
+  opacity: 0;
+}
+
+.inner{ 
+  width:2000px;
+  height: 30px;
+  line-height:30px;
+}
+
+.inner p{ 
+  display:inline-block;
+  margin-right: 150px;
+}
+
+.txt2{
+  opacity: 0;
+}

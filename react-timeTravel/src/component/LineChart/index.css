@@ -1,0 +1,20 @@
+.contain{
+    width: 100%;
+    padding-top: 25px;
+}
+.tip{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tipContent{
+    font-size: 13px;
+    width: 120px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+    background-color: #0590FB;
+}
